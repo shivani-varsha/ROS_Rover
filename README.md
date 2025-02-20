@@ -1,2 +1,2 @@
 # ROS_Rover
-ROS code for Aurora Rover motor, arm and sensor interface
+ROS code for the Rover motor, arm and sensor interface
