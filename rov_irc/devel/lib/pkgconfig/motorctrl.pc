@@ -1,0 +1,8 @@
+prefix=/home/waaraak/Desktop/rover/rov_irc/devel
+
+Name: motorctrl
+Description: Description of motorctrl
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

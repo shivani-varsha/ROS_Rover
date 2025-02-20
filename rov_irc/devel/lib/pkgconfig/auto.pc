@@ -1,0 +1,8 @@
+prefix=/home/waaraak/Desktop/rover/rov_irc/devel
+
+Name: auto
+Description: Description of auto
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

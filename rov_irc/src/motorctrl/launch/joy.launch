@@ -1,0 +1,6 @@
+<launch>
+  <node pkg="joy" type="joy_node" name="joy_node" output="screen" />
+  <node pkg="teleop_twist_joy" type="teleop_node" name="teleop_node" output="screen">
+    <param name="config_file" value="/home/sandy/rov_irc/src/motorctrl/joy.config"/>
+  </node>
+</launch>

@@ -1,0 +1,9 @@
+<launch>
+  <!-- Node 1 -->
+  <node pkg="auto" type="realsensecam.py" name="camera" output="screen">
+  </node>
+
+  <!-- Node 2 -->
+  <node pkg="" type="new.py" name="movement" output="screen">
+  </node>
+</launch>
